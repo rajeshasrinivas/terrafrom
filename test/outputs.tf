@@ -1,3 +1,3 @@
 output "rg_names"{
-  value= "myrgszz123"
+  value= "myrgszz1234"
 }
