@@ -1,3 +1,3 @@
-output "rg_name"{
+output "rg_names"{
   value= "myrg"
 }
